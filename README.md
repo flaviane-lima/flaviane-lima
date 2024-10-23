@@ -1,7 +1,6 @@
-# Olá! 👋 Eu sou [Flaviane de Lima]
-![Imagem](https://www.canva.com/design/DAGHxzP_W8s/jZuOjxLi3wanBx2HWx8Tig/edit?utm_content=DAGHxzP_W8s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
-Sou desenvolvedora apaixonada por tecnologia e cada vez mais avida para aprender novas tecnologias .
+# Olá! 👋 Eu sou Flaviane de Lima
+![Imagem](foto.png) 
+Sou desenvolvedora apaixonada por tecnologia e sempre ávida para aprender novas habilidades.
 
 ## 🛠️ Tecnologias & Ferramentas
 - **Linguagens**: JavaScript, HTML, CSS, Node.js
